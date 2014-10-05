@@ -295,7 +295,8 @@ STEAM KEYS
 -   Zeno Clash
 -   Zeno Clash 2
  
-### ORIGIN KEYS
+ORIGIN KEYS
+---------
 -   Burnout Paradise: The Ultimate Box Origin Key
 -   Command & Conquer: Red Alert 3 - Uprising Origin Key
 -   Crysis 2 Maximum Edition Origin Key
@@ -305,11 +306,13 @@ STEAM KEYS
 -   Mirror's Edge Origin Key
 -   Populous Origin Key
  
-### GOG
+GOG
+---------
 -   Bloodrayne 2
 -   Defender's Quest: Valley of the Forgotten
  
-### MISC
+MISC
+---------
 -   March Of War - $10 In Game Coupon
 -   Groupees BE MINE 13 (Complete Bundle as Gift)
 -   Groupees Trading Coins
