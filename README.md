@@ -1,2 +1,315 @@
-keys
-====
+STEAM GIFTS (Tradable)
+---------
+-   RUSH
+-   EDGE
+-   Upgrade Civ V Standard to Gold Edition
+-   Awesomenauts
+-   The Binding of Isaac
+-   Binding of Isaac: Wrath of the Lamb (DLC)
+-   Chivalry: Medieval Warfare
+-   Dark Souls™: Prepare To Die™ Edition
+-   Total War: Shogun 2 Collection
+-   Legend of Grimrock
+-   Braid
+-   Superbrothers: Sword & Sworcery EP
+-   La-Mulana
+-   Gunpoint
+-   Ironclad Tactics: The Rise of Dmitry (DLC)
+-   Ironclad Tactics: Blood and Ironclads (DLC)
+ 
+DESURA GIFTS
+---------
+-   The Dungeoning
+ 
+DESURA KEYS
+---------
+### Groupees
+-   Admiral Nemo
+-   Alcarys Complex
+-   Banzai Pecan: Last Hope For The Young Century
+-   Bret Airborne
+-   Face Noir
+-   Kilgazar
+-   Sanctuaryrpg (x2)
+-   Unmechanical
+-   Yelaxot
+   
+### Indiegala + Store
+-   Battlepaths
+-   The Girl and the Robot
+-   Loot Hero
+-   Frederic - Resurrection of Music
+-   Hunter's Trophy 2 - America
+-   Sinister City
+-   Rush for Glory
+-   Deep Eclipse
+ 
+STEAM KEYS
+---------
+### Groupees
+-   Airship Dragoon
+-   Antisquad
+-   Bad Hotel
+-   Betrayer
+-   Borealis (x2)
+-   Chompy Chomp Chomp
+-   Consortium
+-   Eschalon Book Ii
+-   Eschalon: Book I
+-   Eschalon: Book Iii
+-   Face Noir
+-   Famaze
+-   Ghostship Aftermath
+-   Heileen 3: New Horizons - Deluxe Edition
+-   Hero Siege
+-   Ionball 2 : Ionstorm
+-   Krater
+-   Legend Of Dungeon
+-   Journey Of A Roach
+-   Mechanic Escape
+-   Meltdown
+-   Miasmata
+-   Millennium 2: Take Me Higher
+-   Millennium 3: Cry Wolf
+-   Millennium: A New Hope
+-   Not The Robots
+-   One Finger Death Punch
+-   Power-up
+-   Race Injection
+-   Retro/grade
+-   Saturday Morning Rpg
+-   Slip
+-   Spate
+-   Splatter
+-   Steel And Steam
+-   Super Killer Hornet + Skh Resurrection
+-   Super Panda Adventures
+-   Syberia I
+-   Syberia Ii
+-   Tales Of Maj'eyal
+-   The Journey Down: Chapter One
+-   The Longest Journey
+-   The Mysterious Cities Of Gold
+-   Unmechanical
+-   Whispering Willows
+-   Windforge
+ 
+### Indiegala + Store
+-   Inescapable
+-   Frederic - Resurrection of Music
+-   Rush for Glory
+-   Little Racers STREET
+ 
+### Indieroyale
+-   The Sun at Night
+-   Hero of the Kingdom
+-   Huntsman: The Orphanage
+ 
+### Amazon.com
+-   The Book of Unwritten Tales: The Critter Chronicles
+-   Thief Gold
+-   Enslaved: Odyssey to the West Premium Edition
+-   Inversion
+   
+### Indiegamestand
+-   Weird Worlds: Return to Infinite Space
+-   ReignMaker
+-   Subject 9
+-   Super Trench Attack
+-   War of the Human Tanks
+-   Gateways
+-   Adventures of Shuggy
+-   Tower of Guns
+-   Sky Nations    
+ 
+### Humble Bundle Activation Keys
+-   10 Classic SEGA Genesis Games, Medieval II: Total War, Sonic & All-Stars Racing Transformed, Binary Domain, Renegade Ops (bundled key)
+-   ARMA Tactics
+-   ARMA: Gold Edition
+-   AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
+-   Alpha Prime
+-   Alpha Protocol, Company of Heroes, Rome: Total War, Hell Yeah! Wrath of the Dead Rabbit (bundled key)
+-   Anachronox
+-   Anomaly 2
+-   Anomaly Korea
+-   Antichamber
+-   Arma II
+-   AudioSurf
+-   BIT.TRIP RUNNER
+-   Bad Hotel
+-   Ballpoint Universe - Infinite
+-   Battlestations: Midway
+-   Beatbuddy: Tale of the Guardians (x2)
+-   BioShock
+-   Blocks That Matter
+-   Breach & Clear
+-   Bridge Constructor
+-   Bridge Project
+-   Broken Sword 2
+-   Capsized
+-   Cave Story+
+-   Cities in Motion 2
+-   Crazy Machines 2
+-   Crouching Pony Hidden Dragon
+-   Crusader Kings II - African Unit Pack
+-   Crusader Kings II - Norse Unit Pack
+-   Crusader Kings II - Russian Unit Pack
+-   Cthulhu Saves the World
+-   Cubetractor
+-   Daikatana
+-   Deadlight
+-   Dear Esther
+-   Defender's Quest: Valley of the Forgotten
+-   Deus Ex: Invisible War
+-   Deus Ex: The Fall
+-   Draw a Stickman: EPIC
+-   Dungeon Hearts
+-   Dungeons of Dredmor Complete
+-   Dust: An Elysian Tail
+-   Dustforce
+-   Dwarfs!?
+-   EVE Online: Starter Pack
+-   Element4l
+-   English Country Tune
+-   Euro Truck Simulator
+-   FEZ
+-   Fieldrunners
+-   Fieldrunners 2
+-   Fish Fillets 2
+-   Foul Play
+-   Frozen Synapse
+-   Frozen Synapse Multiplayer Key
+-   Full Bore
+-   GAUGE
+-   GIGANTIC ARMY
+-   Galactic Civilizations II: Ultimate Edition
+-   Galaxy on Fire 2™ Full HD
+-   Galcon Fusion
+-   Galcon Legends
+-   Garry's Mod
+-   Gemini Rue
+-   Giana Sisters: Twisted Dreams
+-   Girls Like Robots
+-   Gone Home With Soundtrack
+-   Guacamelee! Gold Edition
+-   Hammerwatch
+-   Hitman 2: Silent Assassin
+-   Hitman: Absolution
+-   Hitman: Blood Money
+-   Hitman: Codename 47
+-   Hitman: Contracts
+-   Hotline Miami
+-   Intrusion 2
+-   Ironclad Tactics
+-   Ittle Dew
+-   Jack Lumber
+-   Jamestown
+-   Joe Danger 2: The Movie
+-   Just Cause
+-   KAMI
+-   KRUNCH Digital Collector's Edition
+-   Killing Floor
+-   Kingdom Rush
+-   Knights of Pen & Paper +1 Edition
+-   LIMBO
+-   Lilly Looking Through
+-   LUFTRAUSERS
+-   Legend of Dungeon
+-   Legend of Grimrock
+-   Little Inferno (x2)
+-   Lone Survivor
+-   METAL SLUG 3
+-   Magicka + 2 DLC (x2)
+-   Mini Ninjas
+-   Monaco: What's Yours Is Mine (x2)
+-   Mountain
+-   Ms. Splosion Man
+-   Mutant Mudds Deluxe
+-   Natural Selection 2
+-   Oil Rush
+-   One Way Heroics
+-   Orcs Must Die! 2: Complete Pack (x2)
+-   Orcs Must Die! GOTY
+-   Papo & Yo
+-   Paranautical Activity (Early Access)
+-   PixelJunk Eden
+-   Prison Architect
+-   Probability 0
+-   Proteus
+-   Puddle
+-   Puzzle Bots
+-   Race the Sun
+-   Ravensword: Shadowlands
+-   Reus
+-   Risen 2: Dark Waters, Sacred 2: Gold Edition, Saints Row 2, and Saints Row: The Third (bundled key)
+-   Rising Storm
+-   Rock of Ages
+-   Sanctum 2 (x2)
+-   Sanctum: Collection (x2)
+-   Sang-Froid: Tales of Werewolves
+-   Savant - Ascent
+-   Serious Sam 3: BFE
+-   Shank 2
+-   Shivah: Kosher Edition
+-   Sid Meier's Civilization III: Complete
+-   Sid Meier's Civilization IV: The Complete Edition
+-   Sid Meier's Railroads!
+-   Sid Meier’s Ace Patrol
+-   Sid Meier’s Ace Patrol: Pacific Skies
+-   Skulls of the Shogun
+-   Spirits
+-   Starseed Pilgrim
+-   SteamWorld Dig
+-   Stronghold Crusader HD
+-   Super Amazing Wagon Adventure
+-   Sword of the Stars: The Pit - Gold Edition
+-   Syder Arcade
+-   Symphony
+-   THE KING OF FIGHTERS XIII STEAM EDITION
+-   Take On Helicopters
+-   Terraria
+-   The Bard's Tale
+-   The Bridge
+-   The Bureau: XCOM Declassified
+-   The Cat Lady
+-   The Darkness II
+-   The Great Jitters: Pudding Panic
+-   The Guild II Collection
+-   The Incredible Adventures of Van Helsing - Complete Pack
+-   The Last Remnant
+-   The Mysterious Cities of Gold
+-   The Swapper
+-   Thief Gold
+-   Thomas Was Alone (x2)
+-   Tiny and Big in Grandpa's Leftovers (x2)
+-   Tiny Barbarian DX
+-   To the Moon
+-   Toki Tori 2+
+-   Trainz Simulator 12
+-   Triple Town
+-   UFO: Afterlight
+-   Unholy Heights
+-   VVVVVV
+-   Wildlife Park 3
+-   140 (x2)
+-   Zeno Clash
+-   Zeno Clash 2
+ 
+### ORIGIN KEYS
+-   Burnout Paradise: The Ultimate Box Origin Key
+-   Command & Conquer: Red Alert 3 - Uprising Origin Key
+-   Crysis 2 Maximum Edition Origin Key
+-   Dead Space 3 Origin Key
+-   Dead Space Origin Key
+-   Medal of Honor Origin Key
+-   Mirror's Edge Origin Key
+-   Populous Origin Key
+ 
+### GOG
+-   Bloodrayne 2
+-   Defender's Quest: Valley of the Forgotten
+ 
+### MISC
+-   March Of War - $10 In Game Coupon
+-   Groupees BE MINE 13 (Complete Bundle as Gift)
+-   Groupees Trading Coins
