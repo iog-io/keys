@@ -29,9 +29,9 @@
 - **Ballpoint Universe - Infinite**; *Arachnid Games*
 - **The Bard's Tale**; *inXile entertainment*
 - **Bastion**; *Supergiant Games*
-- **Batman™: Arkham Asylum GOTY**; 
-- **Batman™: Arkham City GOTY Edition**; 
-- **Batman™: Arkham Origins DLC**; 
+- **Batmanâ„¢: Arkham Asylum GOTY**; 
+- **Batmanâ„¢: Arkham City GOTY Edition**; 
+- **Batmanâ„¢: Arkham Origins DLC**; 
 - **Battlestations: Midway**; 
 - **Beatbuddy: Tale of the Guardians**; *THREAKS*
 - **The Binding of Isaac: Afterbirth**; 
@@ -49,7 +49,7 @@
 - **The Bridge**; *The Quantum Astrophysicists Guild*
 - **Broken Sword 2**; *Revolution Software*
 - **Broken Sword: Director's Cut**; *Revolution Software*
-- **Brütal Legend**; *Double Fine Productions*
+- **BrÃ¼tal Legend**; *Double Fine Productions*
 - **The Bureau: XCOM Declassified**; 
 - **Burnout Paradise: The Ultimate Box Steam Key**; 
 - **Capsized**; *Alientrap Games*
@@ -62,8 +62,8 @@
 - **Closure**; *Eyebrow Interactive*
 - **Coin Crypt**; *Dumb and Fat Games*
 - **Command & Conquer: Red Alert 3 - Uprising Steam Key**; 
-- **Company of Heroes™ 2**; *Relic*
-- **Company of Heroes™ Complete Edition**; 
+- **Company of Heroesâ„¢ 2**; *Relic*
+- **Company of Heroesâ„¢ Complete Edition**; 
 - **Costume Quest**; *Double Fine Productions*
 - **Crazy Machines 2**; *Viva Media*
 - **Crouching Pony Hidden Dragon**; *Neko Entertainment*
@@ -130,7 +130,7 @@
 - **Full Bore**; *Whole Hog Games*
 - **Full Mojo Rampage**; *Over the Top Games*
 - **Galactic Civilizations II: Ultimate Edition**; 
-- **Galaxy on Fire 2™ Full HD**; 
+- **Galaxy on Fire 2â„¢ Full HD**; 
 - **Galcon Fusion**; *Hassey Enterprises, Inc.*
 - **Galcon Legends**; *Hassey Enterprises, Inc.*
 - **Game Character Hub**; 
@@ -147,7 +147,7 @@
 - **Grand Ages: Rome - Gold Edition**; 
 - **The Great Jitters: Pudding Panic**; *kunst-stoff*
 - **Greed Corp**; *Vanguard Games*
-- **GRID™**; 
+- **GRIDâ„¢**; 
 - **GRID 2**; 
 - **Grim Fandango Remastered**; *Double Fine Productions*
 - **Guacamelee! Gold Edition**; *DrinkBox Studios*
@@ -200,14 +200,14 @@
 - **Legend of Dungeon**; *Robot Loves Kitty*
 - **Legend of Grimrock**; *Almost Human*
 - **Legionwood 2: Rise of the Eternal's Realm**; 
-- **Life Is Strange™ - Episode 1**; 
+- **Life Is Strangeâ„¢ - Episode 1**; 
 - **Lilly Looking Through**; *Geeta Games*
 - **LIMBO**; *Playdead*
 - **Little Inferno**; *Tomorrow Corporation*
 - **Lone Survivor: The Director's Cut**; *Jasper Byrne*
 - **The Lord of the Rings Online: Steely Dawn Starter Pack**; 
 - **The Lord of the Rings: War in the North**; 
-- **LOST PLANET® 3**; 
+- **LOST PLANETÂ® 3**; 
 - **Lovely Planet**; 
 - **LUFTRAUSERS**; *Vlambeer*
 - **Lume**; *State of Play Games*
@@ -245,9 +245,9 @@
 - **Osmos**; *Hemisphere Games*
 - **Outland - Special Edition**; *Housemarque*
 - **Outlast**; *Red Barrels Games*
-- **PAC-MAN™ Championship Edition DX+ All You Can Eat Edition Bundle**; 
+- **PAC-MANâ„¢ Championship Edition DX+ All You Can Eat Edition Bundle**; 
 - **Painkiller: Hell & Damnation, ArcaniA, Darksiders II, and SpellForce 2: Faith in Destiny**; 
-- **Papers, Please **; *3909 LLC*
+- **Papers, Please**; *3909 LLC*
 - **Papo & Yo**; *Minority Media*
 - **Paranautical Activity**; *Digerati Distribution and Marketing*
 - **PAYDAY 2 - Lycanwulf and The One Below Masks**; 
@@ -302,8 +302,8 @@
 - **Shank 2**; *Klei Entertainment*
 - **Shatter**; *Sidhe*
 - **The Shivah**; *Wadjet Eye Games*
-- **Sid Meier’s Ace Patrol**; 
-- **Sid Meier's Civilization® III: Complete**; 
+- **Sid Meierâ€™s Ace Patrol**; 
+- **Sid Meier's CivilizationÂ® III: Complete**; 
 - **Sid Meier's Civilization IV: The Complete Edition**; 
 - **Sid Meier's Railroads!**; 
 - **Silent Storm Gold Edition**; 
@@ -323,7 +323,7 @@
 - **Stealth Bastard Deluxe**; *Curve Studios*
 - **Steam Marines**; *Worthless Bums*
 - **SteamWorld Dig**; *Image & Form*
-- **STRIDER™**; 
+- **STRIDERâ„¢**; 
 - **Stronghold Crusader HD**; *Firefly Studios*
 - **Sunless Sea**; *Failbetter Games*
 - **Super Amazing Wagon Adventure**; *sparsevector*
@@ -372,9 +372,9 @@
 - **VVVVVV**; *Terry Cavanagh*
 - **The Walking Dead: Season 2**; 
 - **Wanderlust: Rebirth**; 
-- **Warhammer® 40,000: Dawn of War® - Game of the Year Edition**; 
-- **Warhammer® 40,000: Dawn of War II**; 
-- **Warhammer® 40K: Space Marine**; 
+- **WarhammerÂ® 40,000: Dawn of WarÂ® - Game of the Year Edition**; 
+- **WarhammerÂ® 40,000: Dawn of War II**; 
+- **WarhammerÂ® 40K: Space Marine**; 
 - **Where is my Heart?**; *Die Gute Fabrik*
 - **Wildlife Park 3**; *bitComposer Games*
 - **Windosill**; *Vectorpark*
