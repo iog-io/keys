@@ -1,10 +1,16 @@
-##### Title; Developer
+# Title; Developer
+- **10000000**; *Eighty Eight Games*
 - **10 Classic SEGA Genesis Games, Medieval II: Total War, Sonic & All-Stars Racing Transformed, Binary Domain, Renegade Ops**; 
 - **10 Second Ninja**; *Four Circle Interactive Ltd*
 - **140**; *Carlsen Games*
-- **7 Grand Steps: What Ancients Begat**; *Mousechief Co.*
+- **2064: Read Only Memories**; *MidBoss*
+- **7 Grand Steps**; *Mousechief Co.*
 - **AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome**; *Dejobaan Games*
+- **A Boy and His Blob**; 
+- **A Fistful of Gun**; *Devolver Digital*
+- **Agatha Christie - The ABC Murders**; *Anuman*
 - **Airline Tycoon 2**; 
+- **AI War: Fleet Command**; 
 - **Alpha Prime**; 
 - **Alpha Protocol, Company of Heroes, Rome: Total War, Hell Yeah! Wrath of the Dead Rabbit**; 
 - **Always Sometimes Monsters**; *Vagabond Dog*
@@ -19,6 +25,7 @@
 - **Arma 2**; 
 - **Arma: Gold Edition**; 
 - **Arma Tactics**; 
+- **Asdivine Hearts**; *KEMCO*
 - **AudioSurf**; *Audiosurf*
 - **AVGN Adventures**; 
 - **A Virus Named TOM**; *Misfits Attic*
@@ -26,6 +33,8 @@
 - **Axis Game Factory: AGFPRO v3.0**; 
 - **Back to Bed**; *Surprise Attack*
 - **Bad Hotel**; *Lucky Frame*
+- **BADLAND: Game of the Year Humble Deluxe Edition**; *Frogmind*
+- **Ballistick**; *Bomb Shelter Games*
 - **Ballpoint Universe - Infinite**; *Arachnid Games*
 - **The Bard's Tale**; *inXile entertainment*
 - **Bastion**; *Supergiant Games*
@@ -34,6 +43,8 @@
 - **Batman™: Arkham Origins DLC**; 
 - **Battlestations: Midway**; 
 - **Beatbuddy: Tale of the Guardians**; *THREAKS*
+- **Beat Hazard Ultra**; *Cold Beam Games Ltd*
+- **The Beginner's Guide**; *Everything Unlimited Ltd.*
 - **The Binding of Isaac: Afterbirth**; 
 - **The Binding of Isaac + Wrath of the Lamb DLC**; *Edmund McMillen and Florian Himsl*
 - **Bionic Commando: Rearmed**; 
@@ -47,6 +58,7 @@
 - **Borderlands and Borderlands DLCs:The Zombie Island of Dr. Ned, Mad Moxxi's Underdome Riot, & The Secret Armory of General Knoxx**; 
 - **Breach & Clear**; *Mighty Rabbit Studios*
 - **The Bridge**; *The Quantum Astrophysicists Guild*
+- **Broforce**; *Free Lives*
 - **Broken Sword 2**; *Revolution Software*
 - **Broken Sword: Director's Cut**; *Revolution Software*
 - **Brütal Legend**; *Double Fine Productions*
@@ -57,13 +69,18 @@
 - **Cave Story+**; *Studio Pixel*
 - **Chaser**; 
 - **Cherry Tree High Complete Pack**; *Nyu Media*
+- **Choice Chamber**; *Studio Bean*
+- **Chroma Squad**; *Behold Studios*
 - **Cities in Motion 2**; 
 - **Cities XL Platinum, Blood Bowl: Legendary Edition, Divinity II: Developer's Cut, R.A.W. Realms of Ancient War, Game of Thrones, and Confrontation**; 
+- **Clickteam Fusion 2.5 Standard**; 
+- **Clickteam Fusion HTML5 Exporter**; 
 - **Closure**; *Eyebrow Interactive*
 - **Coin Crypt**; *Dumb and Fat Games*
 - **Command & Conquer: Red Alert 3 - Uprising Steam Key**; 
 - **Company of Heroes™ 2**; *Relic*
 - **Company of Heroes™ Complete Edition**; 
+- **Cook, Serve, Delicious!**; *Vertigo Gaming*
 - **Costume Quest**; *Double Fine Productions*
 - **Crazy Machines 2**; *Viva Media*
 - **Crouching Pony Hidden Dragon**; *Neko Entertainment*
@@ -72,7 +89,9 @@
 - **Cthulhu Saves the World**; 
 - **Cubetractor**; *Ludochip*
 - **Daikatana**; 
+- **Dangerous High School Girls in Trouble**; 
 - **The Darkness II**; 
+- **Day of the Tentacle**; *Double Fine Productions*
 - **DeadCore**; 
 - **Deadlight**; *Tequila Works*
 - **Deadly Sin 2**; 
@@ -81,34 +100,43 @@
 - **Dear Esther**; *thechineseroom*
 - **Death Ray Manta**; *Robert Fearon*
 - **DeathSpank, DeathSpank: Thongs of Virtue, and On the Rain-Slick Precipice of Darkness, Episode One**; 
-- **Deep Under the Sky**; *Northway Games*
+- **Deep Under The Sky**; *Northway Games*
 - **Defender's Quest: Valley of the Forgotten**; *Level Up Labs, LLC*
 - **Detective Case and Clown Bot in: Murder in The Hotel Lisbon**; *Nerd Monkeys*
 - **Deus Ex: Invisible War**; 
 - **Deus Ex: The Fall**; 
+- **Devil Daggers**; 
 - **Disciples III - Gold Edition**; 
+- **DisplayFusion**; 
 - **Divekick**; 
 - **Door Kickers**; *KillHouse Games*
+- **Double Fine Adventure Documentary**; 
 - **Draw a Stickman: EPIC**; *Hitcents*
 - **Dreamcast Collection**; 
 - **The Dream Machine: Chapters 1-3**; 
+- **Dropsy**; *Tendershoot*
 - **Duet**; *Kumobius*
 - **Dungeon Hearts**; *Cube Roots*
 - **Dungeons of Dredmor Complete**; *Gaslamp Games*
 - **Dust: An Elysian Tail**; *Humble Hearts*
 - **Dustforce**; *Hitbox Team*
+- **Dusty Revenge: Co-Op Edition**; *PD Design Studio*
 - **Dwarfs!?**; 
 - **Eets Munchies**; *Klei Entertainment*
 - **Eidolon**; *Ice Water Games*
 - **Eldritch**; *Minor Key Games*
 - **Electronic Super Joy: Groove City**; *Michael Todd Games*
+- **Elegy for a Dead World**; *Dejobaan Games*
 - **Element4l**; *I-Illusions*
+- **Ellipsis**; 
 - **Else Heart.Break()**; *Erik Svedang*
 - **Endless Space Emperor Edition**; 
 - **English Country Tune**; *Increpare Games*
 - **The Escapists DLC: Alcatraz**; 
 - **Euro Truck Simulator**; 
 - **Euro Truck Simulator 2**; 
+- **Evoland 2**; *Shiro Games*
+- **Expand**; *Chris Johnson and Chris Larkin*
 - **Expeditions: Conquistador**; *bitComposer Games*
 - **Fairy Bloom Freesia**; *Nyu Media*
 - **Fallen Enchantress: Legendary Heroes**; 
@@ -130,6 +158,7 @@
 - **Full Bore**; *Whole Hog Games*
 - **Full Mojo Rampage**; *Over the Top Games*
 - **Galactic Civilizations II: Ultimate Edition**; 
+- **Galak-Z**; *17-BIT, Inc.*
 - **Galaxy on Fire 2™ Full HD**; 
 - **Galcon Fusion**; *Hassey Enterprises, Inc.*
 - **Galcon Legends**; *Hassey Enterprises, Inc.*
@@ -142,24 +171,31 @@
 - **Giana Sisters: Twisted Dreams**; *Black Forest Games*
 - **GIGANTIC ARMY**; *ASTRO PORT*
 - **Girls Like Robots**; *Popcannibal*
+- **Gods Will Be Watching**; *Deconstructeam*
+- **Golf With Your Friends (Early Access)**; 
 - **Gone Home**; *The Fullbright Company*
 - **Gotham City Impostors: Professional Kit**; 
 - **Grand Ages: Rome - Gold Edition**; 
+- **GRAV (Early Access)**; 
 - **The Great Jitters: Pudding Panic**; *kunst-stoff*
 - **Greed Corp**; *Vanguard Games*
 - **GRID™**; 
 - **GRID 2**; 
 - **Grim Fandango Remastered**; *Double Fine Productions*
 - **Guacamelee! Gold Edition**; *DrinkBox Studios*
+- **Guacamelee Super Turbo Championship Edition**; *DrinkBox Studios*
 - **Guardians of Middle-earth**; 
 - **The Guild II Collection**; 
 - **Gunpoint**; *Suspicious Developments*
+- **Guns of Icarus Online**; 
 - **Hack 'n' Slash**; *Double Fine Productions*
 - **Hack, Slash, Loot**; *David Williamson*
 - **Half Minute Hero: Super Mega Neo Climax Ultimate Boy**; 
 - **Hammerwatch**; *Crackshell*
+- **Hand of Fate**; *Defiant Development*
 - **Hero Academy**; *Robot Entertainment*
 - **Hero Siege**; 
+- **Hexcells**; *Matthew Brown*
 - **Hitman 2: Silent Assassin**; 
 - **Hitman: Absolution**; 
 - **Hitman: Blood Money**; 
@@ -167,6 +203,8 @@
 - **Hitman: Contracts**; 
 - **Home**; *Benjamin Rivers*
 - **Hotline Miami**; *Dennaton Games*
+- **Hot Tin Roof**; *Glass Bottom Games*
+- **Human Resource Machine**; *Tomorrow Corporation*
 - **ibb & obb - Best Friends Forever Double Pack**; 
 - **Imperium Romanum - Gold Edition**; 
 - **The Incredible Adventures of Van Helsing - Complete Pack**; 
@@ -177,7 +215,8 @@
 - **Insanely Twisted Shadow Planet**; *Shadow Planet Productions*
 - **Insurgency**; 
 - **Intrusion 2**; *vapgames*
-- **Ironclad Tactics**; *Zachtronics*
+- **Invisible, Inc.**; *Klei Entertainment*
+- **Ironclad Tactics**; *Alliance Digital Media*
 - **Ittle Dew**; *Ludosity*
 - **Jack Lumber**; *Owlchemy Labs*
 - **Jagged Alliance 1: Gold Edition**; 
@@ -185,6 +224,7 @@
 - **Jamestown**; *Final Form Games*
 - **Jazzpunk**; *Necrophone Games*
 - **Joe Danger 2: The Movie**; *Hello Games*
+- **JumpJet Rex**; *TreeFortress*
 - **Just Cause**; 
 - **KAMI**; *State of Play Games*
 - **KickBeat Steam Edition**; 
@@ -199,7 +239,9 @@
 - **Last Word**; 
 - **Legend of Dungeon**; *Robot Loves Kitty*
 - **Legend of Grimrock**; *Almost Human*
+- **Legend of Grimrock 2**; *Almost Human*
 - **Legionwood 2: Rise of the Eternal's Realm**; 
+- **Lethal League**; *Team Reptile*
 - **Life Is Strange™ - Episode 1**; 
 - **Lilly Looking Through**; *Geeta Games*
 - **LIMBO**; *Playdead*
@@ -209,42 +251,57 @@
 - **The Lord of the Rings: War in the North**; 
 - **LOST PLANET® 3**; 
 - **Lovely Planet**; 
+- **Lovers in a Dangerous Spacetime**; *Asteroid Base*
 - **LUFTRAUSERS**; *Vlambeer*
 - **Lume**; *State of Play Games*
 - **Lumino City**; 
+- **Luna's Wandering Stars**; *Serenity Forge*
 - **Luxuria Superbia**; *Tale of Tales*
 - **Machinarium**; *Amanita Design*
 - **Magicka + 2 DLC**; 
 - **Mark of the Ninja**; *Klei Entertainment*
+- **Marmoset Hexels 2.5**; 
 - **Mars: War Logs**; 
 - **Medal of Honor Steam Key**; 
 - **Mercenary Kings**; *Tribute Games*
 - **METAL SLUG 3**; *SNK PLAYMORE CORPORATION*
 - **MIND: Path to Thalamus**; *Surprise Attack*
+- **Mini Metro**; *Dinosaur Polo Club*
 - **Mini Ninjas**; 
 - **Mirror's Edge Steam Key**; 
 - **Monaco**; *Pocketwatch Games*
+- **Monster Loves You**; 
 - **Mortal Kombat Kollection**; 
 - **Mountain**; *David O'Reilly*
 - **Ms. Splosion Man**; 
 - **Murdered: Soul Suspect**; 
+- **Mushroom 11**; *Untame (Keren Software LLC)*
 - **Mutant Mudds Deluxe**; *Renegade Kid*
 - **The Mysterious Cities of Gold**; *Ynnis Interactive*
 - **Natural Selection 2**; *Unknown Worlds Entertainment*
 - **Neighbours From Hell Compilation**; *JoWooD Vienna*
 - **Never Alone**; *E-Line Ventures LLC*
+- **Nidhogg**; *Messhof*
 - **NiGHTS Into Dreams**; 
+- **Ninja Pizza Girl**; 
+- **Noct (Early Access)**; 
 - **Nosgoth Veteran Pack**; 
+- **NOT A HERO**; *Devolver Digital*
+- **No Time to Explain**; 
 - **The Novelist**; *Orthogonal Games*
+- **Nuclear Throne**; 
+- **Octodad Dadliest Catch**; *Young Horses*
 - **Oil Rush**; *Unigine Corp*
 - **OlliOlli**; *Devolver Digital*
-- **One Way Heroics**; *Active Gaming Media*
+- **OlliOlli2: Welcome to Olliwood**; *Devolver Digital*
+- **One Way Heroics**; *AGM Playism*
 - **Orcs Must Die! 2: Complete Pack**; 
 - **Orcs Must Die! GOTY**; 
 - **Organ Trail**; *The Men Who Wear Many Hats*
 - **Osmos**; *Hemisphere Games*
 - **Outland - Special Edition**; *Housemarque*
 - **Outlast**; *Red Barrels Games*
+- **Overgrowth**; *Wolfire Games*
 - **PAC-MAN™ Championship Edition DX+ All You Can Eat Edition Bundle**; 
 - **Painkiller: Hell & Damnation, ArcaniA, Darksiders II, and SpellForce 2: Faith in Destiny**; 
 - **Papers, Please**; *3909 LLC*
@@ -254,26 +311,39 @@
 - **PixelJunk Eden**; 
 - **Pix the Cat**; *Pasta Games*
 - **Platformines**; 
+- **Please Don't Touch Anything**; *BulkyPix*
+- **Potatoman Seeks the Troof**; *Pixeljam*
 - **Prison Architect**; *Introversion Software*
 - **Probability 0**; *Droqen*
 - **Proteus**; *Ed Key & David Kanaga*
 - **Psychonauts**; *Double Fine Productions*
 - **Puddle**; *Neko Entertainment*
+- **Punch Club**; 
 - **Puzzle Agent**; *Telltale Games*
 - **Puzzle Agent 2**; *Telltale Games*
 - **Puzzle Bots**; *Wadjet Eye Games*
+- **Q.U.B.E: Director's Cut**; *Toxic Games*
 - **Race the Sun**; *Flippfly*
 - **Ravensword: Shadowlands**; *Crescent Moon Games*
 - **Reaper - Tale of a Pale Swordsman**; *Hexage*
+- **Regency Solitaire**; *Grey Alien Games*
 - **Remnants of Isolation**; 
 - **Resident Evil Revelations 2 - Episode 1: Penal Colony**; 
 - **Retro City Rampage DX**; *Vblank Entertainment*
+- **Retro Game Crunch**; 
 - **Reus**; *Abbey Games*
 - **Risen 2: Dark Waters, Sacred 2: Gold Edition, Saints Row 2, and Saints Row: The Third**; 
 - **Rising Storm**; *Tripwire Interactive*
 - **Risk of Rain**; *Hopoo Games*
-- **Rocketbirds: Hardboiled Chicken**; *Ratloop Asia*
+- **Rituals**; 
+- **Road to Ballhalla**; 
+- **Robot Roller-Derby Disco Dodgeball**; 
+- **Rocket Birds: Hardboiled Chicken**; *Ratloop Asia*
+- **ROCKETSROCKETSROCKETS**; *Radial Games*
 - **Rock of Ages**; *ACE Team Software*
+- **Roguelands**; *SmashGames*
+- **RollerCoaster Tycoon 2: Triple Thrill Pack**; 
+- **RONIN**; *Devolver Digital*
 - **RPG Maker - Adventurer's Journey DLC<br />(DLC Bundle #1)**; 
 - **RPG Maker - Futuristic Tiles Resource Pack DLC<br />(DLC Bundle #2)**; 
 - **RPG Maker - High Fantasy Main Party Pack DLC<br />(DLC Bundle #2)**; 
@@ -286,6 +356,8 @@
 - **RPG Maker VX Ace**; 
 - **RPG Maker XP**; 
 - **RPG Maker - Zombie Survival Graphic Pack DLC<br />(DLC Bundle #3)**; 
+- **Runestone Keeper**; *Blackfire*
+- **Rust (Early Access)**; 
 - **Samorost 2**; *Amanita Design*
 - **Sanctum 2**; *Coffee Stain Studios*
 - **Sanctum: Collection**; 
@@ -293,69 +365,96 @@
 - **Savant - Ascent**; *D-Pad Studio*
 - **Screencheat**; *Surprise Attack*
 - **Scribblenauts Unlimited**; 
+- **Secrets of Raetikon**; 
 - **Serious Sam 3: BFE**; 
 - **Serious Sam HD: The First Encounter Steam Key**; 
 - **Serious Sam HD: The Second Encounter Steam Key**; 
 - **Shadowgrounds**; *Frozenbyte*
 - **Shadow Puppeteer**; 
-- **Shadow Warrior Classic Redux and Duke Nukem 3D: Megaton Edition Steam Key**; 
+- **Shadowrun: Hong Kong - Extended Edition**; 
+- **Shadow Warrior**; *Flying Wild Hog*
 - **Shank 2**; *Klei Entertainment*
+- **Shantae: Risky's Revenge - Director's Cut**; 
 - **Shatter**; *Sidhe*
 - **The Shivah**; *Wadjet Eye Games*
+- **shutshimi**; 
 - **Sid Meier’s Ace Patrol**; 
 - **Sid Meier's Civilization® III: Complete**; 
 - **Sid Meier's Civilization IV: The Complete Edition**; 
 - **Sid Meier's Railroads!**; 
 - **Silent Storm Gold Edition**; 
+- **Skullgirls + All Characters + Color Palette Bundle DLC**; 
 - **Skulls of the Shogun**; *17-BIT, Inc.*
 - **Skyborn**; 
 - **Solar 2**; *Murudai*
+- **Song of the Deep**; 
 - **Sonic & All-Stars Racing Transformed**; 
+- **SPACECOM**; *11 bit studios*
 - **Space Pirates and Zombies**; *MinMax Games*
 - **Space Run**; 
-- **SpeedRunners (Early Access)**; 
+- **SpeedRunners**; 
+- **Spelunky**; *Mossmouth*
+- **Spider: Rite of the Shrouded Moon**; *Tiger Style Games*
 - **Spirits**; *Spaces of Play*
 - **Splice**; *Cipher Prime Studios*
 - **Spoiler Alert**; *Megafuzz*
+- **Spriter: Adventure Platformer Pack**; 
+- **Spriter: Basic Platformer Pack**; 
+- **Spriter: Game Effects Pack**; 
+- **Spriter Pro**; 
+- **Spriter: Run N' Gun Pack**; 
+- **Sproggiwood**; *Freehold Games*
 - **Stacking**; *Double Fine Productions*
-- **The Stanley Parable**; *Valve Corporation*
+- **The Stanley Parable**; *Everything Unlimited Ltd.*
+- **Stardew Valley**; 
 - **Starseed Pilgrim**; *Droqen*
 - **Stealth Bastard Deluxe**; *Curve Studios*
 - **Steam Marines**; *Worthless Bums*
 - **SteamWorld Dig**; *Image & Form*
+- **Streamline Early Access**; 
 - **STRIDER™**; 
+- **Stronghold Crusader 2**; 
 - **Stronghold Crusader HD**; *Firefly Studios*
 - **Sunless Sea**; *Failbetter Games*
 - **Super Amazing Wagon Adventure**; *sparsevector*
+- **Superbrothers: Sword & Sworcery EP**; *Superbrothers + CAPY + Jim Guthrie*
 - **Super Comboman: Don't Mash Edition**; *Interabang Entertainment*
 - **Superfrog HD**; *Team 17*
+- **Super Galaxy Squadron EX**; 
 - **Super Hexagon**; *Terry Cavanagh*
 - **SuperPower 2 Steam Edition**; 
+- **Super Time Force Ultra**; *Capybara Games*
 - **Supreme Commander, Supreme Commander: Forged Alliance, The Guild 2, and Red Faction: Armageddon**; 
 - **The Swapper**; *Facepalm Games*
 - **Sweet Lily Dreams**; 
 - **Sword of the Stars: The Pit - Gold Edition**; *Kerberos Productions Inc.*
 - **Syder Arcade**; *Studio Evil*
 - **Symphony**; *Empty Clip Studios*
+- **System Shock Pack**; 
 - **Take On Helicopters**; 
 - **Tales From Space: Mutant Blobs Attack**; *DrinkBox Studios*
+- **Team Indie**; *Brightside Games*
 - **Teleglitch: Die More Edition**; *Test3 Projects (T3P)*
 - **Teleglitch: Guns and Tunes**; 
 - **Tengami**; *Nyamyam*
 - **Terraria**; *Re-Logic*
 - **Tesla Effect: A Tex Murphy Adventure**; *Big Finish Games*
-- **Tetrobot and Co.**; *Swing Swing Submarine*
+- **Tetrobot and Co**; *Swing Swing Submarine*
 - **Thief Gold**; 
+- **Thirty Flights of Loving**; 
 - **Thomas Was Alone**; *Mike Bithell*
 - **Ticket to Ride**; *Days of Wonder*
 - **Ticket to Ride 1910 USA DLC**; 
 - **Ticket to Ride Europe DLC**; 
-- **Tiny and Big in Grandpa's Leftovers**; *Black Pants Game Studio*
+- **TIMEframe**; 
+- **Tiny & Big in Grandpa's Leftovers**; *Black Pants Game Studio*
 - **Tiny Barbarian DX**; *StarQuail Games*
+- **TIS-100**; *Zachtronics*
 - **Toki Tori 2+**; *Two Tribes*
 - **Tomb Raider I**; 
 - **Total War: ROME II - Caesar in Gaul (DLC)**; 
 - **To the Moon**; *Freebird Games*
+- **TowerFall Ascension**; *Matt Makes Games Inc.*
 - **Tower of Guns**; *Terrible Posture Games*
 - **Trainz Simulator 12**; *N3V Games*
 - **Trine 2: Complete Story**; *Frozenbyte*
@@ -366,10 +465,15 @@
 - **Tropico 4, and Jagged Alliance: Back in Action**; 
 - **Type:Rider**; *BulkyPix*
 - **UFO: Afterlight**; 
-- **Unholy Heights**; *Active Gaming Media*
+- **Uncanny Valley**; *Cowardly Creations*
+- **Unholy Heights**; *AGM Playism*
+- **Unmechanical**; *Teotl Studios*
 - **Valdis Story: Abyssal City**; *Endlessfluff Games*
 - **Vertical Drop Heroes HD**; *Nerdook Productions*
+- **Victor Vran**; 
+- **Volume**; 
 - **VVVVVV**; *Terry Cavanagh*
+- **Waking Mars**; *Tiger Style Games*
 - **The Walking Dead: Season 2**; 
 - **Wanderlust: Rebirth**; 
 - **Warhammer® 40,000: Dawn of War® - Game of the Year Edition**; 
@@ -379,7 +483,7 @@
 - **Wildlife Park 3**; *bitComposer Games*
 - **Windosill**; *Vectorpark*
 - **The Wolf Among Us**; 
-- **World Of Goo**; 
+- **World Of Goo**; *2D Boy*
 - **Worms Armageddon**; *Team 17*
 - **Worms Blast**; 
 - **Worms Crazy Golf**; *Team 17*
@@ -390,6 +494,7 @@
 - **X: Beyond the Frontier, X-Tension, X2: The Threat, and X3: Reunion Steam key**; 
 - **Year Walk**; *Simogo*
 - **Yesterday**; 
+- **You Must Build a Boat**; *Eighty Eight Games*
 - **Zenbound 2**; *Secret Exit*
 - **Zeno Clash**; *ACE Team Software*
 - **Zeno Clash 2**; *ACE Team Software*
